@@ -7,7 +7,7 @@ PixelHunt is a custom **image search engine** built using **HTML, CSS, and JavaS
 
 - ✅ Search images from the entire web using Google CSE
 - ✅ Beautiful, modern responsive design
-- ✅ Lightweight and fasT
+- ✅ Lightweight and fast
 - ✅ Easy to customize
 
 ---
